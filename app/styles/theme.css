@@ -6,6 +6,7 @@
   --oui-color-primary: 255 215 0;
   --oui-color-primary-light: 255 234 142;
   --oui-color-primary-darken: 255 184 0;
+  --oui-color-primary-contrast: 255 255 255;
 
   --oui-color-link: 255 215 0;
   --oui-color-link-light: 255 234 142;
@@ -32,7 +33,7 @@
   --oui-color-fill: 36 32 47;
   --oui-color-fill-active: 40 46 58;
 
-  --oui-color-base-1: 93 83 123;
+  --oui-color-base-1: 14 13 18;
   --oui-color-base-2: 78 71 107;
   --oui-color-base-3: 64 56 93;
   --oui-color-base-4: 56 49 83;
