@@ -1,6 +1,6 @@
 :root {
-  --oui-font-family: 'Montserrat', sans-serif;
-  --oui-font-size-base: 16px;
+  --oui-font-family: 'Open Sans', sans-serif;
+  --oui-font-size-base: 14px;
 
   /* colors */
   --oui-color-primary: 255 215 0;
@@ -87,14 +87,14 @@
   --oui-rounded-full: 9999px;
 
   /* spacing */
-  --oui-spacing-xs: 20rem;
-  --oui-spacing-sm: 22.5rem;
-  --oui-spacing-md: 26.25rem;
-  --oui-spacing-lg: 30rem;
-  --oui-spacing-xl: 33.75rem;
+  --oui-spacing-xs: 16rem;
+  --oui-spacing-sm: 20rem;
+  --oui-spacing-md: 24rem;
+  --oui-spacing-lg: 27rem;
+  --oui-spacing-xl: 27rem;
 }
 
 html, body {
-  font-family: 'Montserrat', sans-serif !important;
-  font-size: 16px !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 14px !important;
 }
