@@ -1,5 +1,5 @@
 :root {
-  --oui-font-family: 'Manrope', sans-serif;
+  --oui-font-family: 'Open Sans', sans-serif;
   --oui-font-size-base: 16px;
 
   /* colors */
@@ -39,7 +39,7 @@
   --oui-color-base-4: 39 39 54;
   --oui-color-base-5: 33 33 47;
   --oui-color-base-6: 28 28 40;
-  --oui-color-base-7: 74 102 148;
+  --oui-color-base-7: 43 49 57;
   --oui-color-base-8: 34 40 50;
   --oui-color-base-9: 30 36 45;
   --oui-color-base-10: 26 32 40;
@@ -95,6 +95,6 @@
 }
 
 html, body {
-  font-family: 'Manrope', sans-serif !important;
+  font-family: 'Open Sans', sans-serif !important;
   font-size: 16px !important;
 }
